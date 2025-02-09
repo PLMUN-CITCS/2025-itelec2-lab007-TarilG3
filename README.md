@@ -1,7 +1,7 @@
-# 2025-ITELEC2-LAB007
+# 2025-ITELEC2-WK02S01E05
 Week 02 - Python Variables, Operators and I/O Statements
 
-Laboratory # 07 - Combined Application Exercise in Python
+Exercise # 05 - Combined Application Exercise in Python
 
 ## **Instructions**
 
@@ -77,7 +77,7 @@ Only perform this if this is the first time you will setup your Git Environment
 
 ### **Step 3: Complete the Assignment**
 
-**Laboratory # 07 - Combined Application Exercise in Python**
+**Exercise # 05 - Combined Application Exercise in Python**
 
    **Objective:**
    This exercise combines the concepts of variables, input/output, arithmetic operators, and the math library to create a more comprehensive program.  You will learn to:
@@ -108,14 +108,6 @@ Only perform this if this is the first time you will setup your Git Environment
    - It introduces basic error handling (checking for negative input before calculating the square root).
    - It emphasizes the importance of clear and formatted output.
    - It uses f-strings for cleaner and more readable formatting.
-
-   **Python Best Practices**
-   - Input is String, Convert It: input() gives you text. Use float() (or int()) to make it a number before math.
-   - Math Module Still Needed: import math if you're using math functions like sqrt() or sin().
-   - Radians for Trig: math.sin(), math.cos(), math.tan() need radians. Convert from degrees with math.radians().
-   - Handle Errors: Check for potential problems (like a negative square root) and do something sensible. Don't let your program crash!
-   - Format Output: Make your results easy to read. F-strings (e.g., f"{variable:.2f}") are great for this.
-   - Combine Skills: This exercise shows how to put everything together: input, math, output, and error handling. That's how you build real programs!
 
    **Step-by-Step Instructions:**
 
